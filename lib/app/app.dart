@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_constructors
+
 import 'package:chat_app/core/provider.dart';
 import 'package:chat_app/features/auth/auth_screen.dart';
 import 'package:chat_app/features/chat/chat_screen.dart';

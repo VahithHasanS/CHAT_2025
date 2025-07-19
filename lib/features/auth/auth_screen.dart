@@ -19,8 +19,13 @@ class AuthScreen extends ConsumerWidget {
         padding: EdgeInsets.all(16),
         child: Column(
           children: [
-            TextField(controller: emailCtrl, decoration: InputDecoration(labelText: 'Email')),
-            TextField(controller: passCtrl, obscureText: true, decoration: InputDecoration(labelText: 'Password')),
+            TextField(
+                controller: emailCtrl,
+                decoration: InputDecoration(labelText: 'Email')),
+            TextField(
+                controller: passCtrl,
+                obscureText: true,
+                decoration: InputDecoration(labelText: 'Password')),
             ElevatedButton(
               onPressed: () => auth.signInWithEmailAndPassword(
                 email: emailCtrl.text.trim(),
