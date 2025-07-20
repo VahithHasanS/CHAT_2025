@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import 'package:flutter/material.dart';
 
 void main() {
@@ -119,4 +120,19 @@ class _MyHomePageState extends State<MyHomePage> {
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
+=======
+// ignore_for_file: unused_import
+
+import 'package:chat_app/app/app.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+//import 'firebase_options.dart';
+import 'package:firebase_core/firebase_core.dart';
+//import 'app.dart';
+
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  //await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
+  runApp(ProviderScope(child: MyApp()));
+>>>>>>> 36c2e656ba1d305ddf64cc9c98e9d2388a3bda3b
 }

@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Chat Application 2025</string>
+=======
+	<string>Chat App</string>
+>>>>>>> 36c2e656ba1d305ddf64cc9c98e9d2388a3bda3b
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +17,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>chat_application_2025</string>
+=======
+	<string>chat_app</string>
+>>>>>>> 36c2e656ba1d305ddf64cc9c98e9d2388a3bda3b
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

@@ -5,11 +5,17 @@
 *.swp
 .DS_Store
 .atom/
+<<<<<<< HEAD
 .build/
 .buildlog/
 .history
 .svn/
 .swiftpm/
+=======
+.buildlog/
+.history
+.svn/
+>>>>>>> 36c2e656ba1d305ddf64cc9c98e9d2388a3bda3b
 migrate_working_dir/
 
 # IntelliJ related

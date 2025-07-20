@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # chat_application_2025
+=======
+# chat_app
+>>>>>>> 36c2e656ba1d305ddf64cc9c98e9d2388a3bda3b
 
 A new Flutter project.
 
