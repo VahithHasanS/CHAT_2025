@@ -1,6 +1,7 @@
 // ignore_for_file: prefer_const_constructors, use_key_in_widget_constructors
 
-import 'package:chat_app/core/provider.dart';
+//import 'package:chat_app/core/provider.dart';
+import 'package:chat_application_2025/core/provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 //import '../../core/providers.dart';
