@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
-    "name": "chat_application_2025",
-    "short_name": "chat_application_2025",
-=======
     "name": "chat_app",
     "short_name": "chat_app",
->>>>>>> 36c2e656ba1d305ddf64cc9c98e9d2388a3bda3b
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
